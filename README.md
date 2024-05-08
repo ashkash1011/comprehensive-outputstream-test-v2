@@ -13,8 +13,5 @@ This tool is a public service and made with heavy dedication and devotion to hel
   <li>Extract the ZIP archive into any directory in your computing device</li>
   <li>Open the Integrated Development Environment (IDE) of your choice, utilizing the application to read and open the extracted directory as a project, configured for the Java programming language</li>
   <li>Press the round element of a hue of any hex value (a button) that encompasses a label such as "run", "run code", or any other text data that indicates that a user can utilize the button to allow the computer to read the code in the project created from the extracted directory, build the Java project by reading the text data of any Java Class files, compiling them into binary machine code, check the file for any possible errors, and execute the program, theoretically altering the state of the individual pixels on the Organic Light-Emitting Diode (OLED) or other type of computer display to resemble two members of the English lexicon, including "Hello" and "World", followed by a symbol of emphasis (exclamation mark)</li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ol>
 
