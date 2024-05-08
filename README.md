@@ -3,7 +3,7 @@
 
 This tool is a public service and made with heavy dedication and devotion to help programmers confirm that they can, in fact, send data of the String class to the outputstream in order to display the content to users of their application with their current configuration. No additional packages or libraries needed to use!
 
-** WARNING - FOR USE BY ADVANCED USERS ONLY. DO NOT ATTEMPT TO UTILIZE THIS TOOL WITHOUT A THOROUGH UNDERSTANDING OF THE JDK, JRE, JFK, AND KFC. **
+**WARNING - FOR USE BY ADVANCED USERS ONLY. DO NOT ATTEMPT TO UTILIZE THIS TOOL WITHOUT A THOROUGH UNDERSTANDING OF THE JDK, JRE, JFK, AND KFC.**
 
 ## Steps to use: 
 <ol>
